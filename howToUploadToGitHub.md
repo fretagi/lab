@@ -26,7 +26,7 @@
 
 #### Example
 
-1. git clone git@github.com:<username>/<reponame>.git
+1. git clone git@github.com:username/reponame.git
 1. git add .
 1. git commit -m "whatever"
 1. git push
